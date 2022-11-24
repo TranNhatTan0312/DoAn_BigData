@@ -1,1 +1,3 @@
-# DoAnBigData
+- Link dataset đề tài: 
+- Deadline đăng ký: 07/12/2022 14h00
+- Ngày báo cáo (dự kiến): 14/12/2022
