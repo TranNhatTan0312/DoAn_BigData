@@ -2,7 +2,7 @@
 - Deadline đăng ký: 07/12/2022 14h00
 - Ngày báo cáo (dự kiến): 14/12/2022
 
-I.	Mục tiêu
+###	Mục tiêu
 1.	Nhận diện và phát biểu được bài toán khai thác dữ liệu lớn.
 2.	Hiểu được các đặc điểm và áp dụng các kỹ thuật tiền xử lý trên dữ liệu lớn.
 3.	Mô tả và áp dụng các giải thuật khai thác dữ liệu song song, phân tán để giải quyết
